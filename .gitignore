@@ -1,0 +1,9 @@
+# Visual Studio / .NET
+.vs/
+**/bin/
+**/obj/
+*.user
+
+# Secrets locaux
+appsettings.Development.json
+**/serviceAccountKey*.json
